@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Carousel Test</string>
+    <string name="search">Search</string>
+    <string name="load_error">Cannot load image</string>
+</resources>
